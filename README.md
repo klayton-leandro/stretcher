@@ -33,7 +33,7 @@ Usage: python stretcher.py --shodan {key}  --action analyze --threads {0..100} -
   
 ```
 $ cd $HOME/
-$ git clone https://github.com/6IX7ine/stretcher/
+$ git clone https://github.com/klayton-leandro/stretcher/
 $ sudo chmod -R 777 stretcher/
 ```
 
